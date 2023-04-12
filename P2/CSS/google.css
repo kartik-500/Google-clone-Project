@@ -1,0 +1,172 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+main {
+    height: 100vh;
+    width: 100vw;
+    /* background-color: aqua; */
+}
+
+/* ...........................HEADER SECTION.............................. */
+
+#nav {
+    padding: 30px 20px;
+    /* background-color: beige; */
+}
+
+ul li {
+    display: inline-block;
+    margin: 8px;
+}
+
+ul {
+    margin-left: 1100px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: lightslategrey;
+}
+
+.user {
+    border: 1px solid;
+    padding: 8px 11px;
+    border-radius: 50%;
+}
+/* ...................... SECTION SEARCH BAR ................................. */
+
+#sec {
+    height: 450px;
+    width: 550px;
+    /* border: 1px solid; */
+    margin: 0 auto;
+    margin-top: 70px;
+}
+
+#img {
+    height: 90px;
+    width: 250px;
+    /* border: 1px solid; */
+    margin: 0 auto;
+    background-image: url(../IMAGE/google-removebg-preview.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#childsec{
+    height: 320px;
+    width: 450px;
+    /* background-color: aqua; */
+    margin: 0 auto;
+}
+
+#searchbar {
+    height: 40px;
+    width: 450px;
+    border: 1px solid;
+    border-radius: 50px;
+    margin: 0 auto;
+    margin-top: 25px;
+    padding: 9px;
+    /* box-shadow: rgba(0, 0, 0, 0.36) 0px 2px 9px; */
+}
+.search{
+    display: inline-block; 
+}
+#icon{
+    height: 25px;
+    width: 420px;
+    /* background-color: aqua; */
+    margin: 0 auto;
+    margin-top: 2px;
+   
+}
+input{
+    border: none;
+} 
+#id3{
+    color: blue;
+}
+/* ............SHORTCUT APPS............. */
+
+#apps{
+    height: 280px;
+    width: 450px;
+    /* border: 1px solid; */
+}
+#box1{
+    height: 270px;
+    width: 440px;
+    /* background-color: brown; */
+    /* border: 1px solid; */
+    margin: 0 auto;
+    margin-top: 4px;
+}
+
+/* #apps{
+    height: 270px;
+    width: 450px;
+    background-color:blue;
+} */
+.apps{
+    height: 130px;
+    width: 140px;
+    margin-top:3px;
+    padding: 4px;
+    margin: 1.5px;
+    /* background-color:blueviolet; */
+    display:inline-block
+}
+.apps{
+    display: inline-block;
+}
+.box{
+    height: 50px;
+    width: 50px;
+    background-color: #f1f3f4;
+    border-radius: 50%;
+    margin: 0 auto;
+    margin-top: 40px;
+    font-size: 36px;
+    padding:6px 10px 10px 10px;
+}
+
+a{
+    text-decoration: none;
+}
+div p{
+    height: 20px;
+    width: 70px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+#whats{
+    color: green;
+}
+#insta{
+    color: Magenta;
+}
+#face{
+    color:red;
+}
+#twitter{
+    color:#1589FF;
+}
+#link{
+    color: #2277AD;
+}
+#tele{
+    color:#54A9DF ;
+}
+.box2{
+    color: rgb(33, 33, 33);
+}
+/* #box i{ 
+    font-size: 50px;
+} */
+
+
+
+
